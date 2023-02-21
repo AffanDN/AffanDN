@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 My name is Affan Dharmawan Nusli currently studying informatic engineering at Mercu Buana University.
 
 📫 How to reach me: * Affan DHarmawan Nusli, [Linkedin](https://www.linkedin.com/in/affan-dharmawan-nusli-a10417229/).
+
+<p align="left">
+<a href="(https://github.com/AffanDN)">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AffanDNn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AffanDN&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
