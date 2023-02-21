@@ -21,7 +21,7 @@ My name is Affan Dharmawan Nusli currently studying informatic engineering at Me
 
 <p align="left">
 <a href="(https://github.com/AffanDN)">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AffanDNn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AffanDN&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AffanDN&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
