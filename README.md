@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Affan Dharmawan Nusli currently studying informatic engineering at Mercu Buana University.
+📫 How to reach me: * Affan DHarmawan Nusli, [Linkedin](https://www.linkedin.com/in/affan-dharmawan-nusli-a10417229/).
